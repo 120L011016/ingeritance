@@ -12,3 +12,4 @@ public interface CompareA {
         System.out.println("CompareA:上海");
     }
 }
+
