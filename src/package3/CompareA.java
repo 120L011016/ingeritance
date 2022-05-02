@@ -1,4 +1,4 @@
-package1 package3;
+package package3;
 /*
     1: JDK8:除了定义上面两个，还可以定义静态方法、默认方法
  */
